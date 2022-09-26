@@ -1,0 +1,14 @@
+{
+    "name": "\u6a62\u5713\u66f2\u7dda",
+    "short_name": "C_Elliptic",
+    "contest": "pre_2dnhspc_2dofficial",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (7)",
+        "Subtask 2 (22)",
+        "Subtask 3 (71)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

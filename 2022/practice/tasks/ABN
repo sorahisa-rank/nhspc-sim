@@ -1,0 +1,15 @@
+{
+    "name": "A+B=N",
+    "short_name": "ABN",
+    "contest": "practice_5fsession",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (20)",
+        "Subtask 3 (30)",
+        "Subtask 4 (50)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}

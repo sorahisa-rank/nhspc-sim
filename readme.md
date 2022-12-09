@@ -1,8 +1,8 @@
 -   2019
     -   [官方](https://pre-nhspc2019.brian.su/ranking/)
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2019/ranking/)
-    -   [社會組](https://sorahisa-rank.github.io/nhspc-sim/2019/social/ranking/)
-    -   [合併版](https://sorahisa-rank.github.io/nhspc-sim/2019/combined/ranking/)
+    -   [社會組](https://sorahisa-rank.github.io/nhspc-sim/2019/social/)
+    -   [合併版](https://sorahisa-rank.github.io/nhspc-sim/2019/combined/)
 -   2020
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2020/ranking/)
     -   [社會組](https://codeforces.com/gym/102891/standings)

@@ -1,1 +1,1 @@
-[]
+[{"user": "user056", "task": "ABN", "time": 1670590490, "key": "435", "score": 100.0, "token": false, "extra": ["0", "20", "30", "50"]}, {"user": "user056", "task": "Egg", "time": 1670591996, "key": "450", "score": 0.0, "token": false, "extra": ["0", "0", "0", "0"]}, {"user": "user056", "task": "Egg", "time": 1670592193, "key": "452", "score": 0.0, "token": false, "extra": ["0", "0", "0", "0"]}, {"user": "user056", "task": "Rewater", "time": 1670591895, "key": "448", "score": 0.0, "token": false, "extra": ["0", "0", "0", "0", "0", "0"]}]

@@ -8,3 +8,8 @@
     -   [社會組](https://codeforces.com/gym/102891/standings)
 -   [2021 on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/pre-nhspc-2021)
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2021/ranking/)
+-   2022
+    -   [測機](https://sorahisa-rank.github.io/nhspc-sim/2022/practice/)
+    -   正式賽
+    -   社會組
+    -   合併版

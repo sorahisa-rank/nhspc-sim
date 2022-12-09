@@ -9,8 +9,6 @@ from urllib3.exceptions import InsecureRequestWarning
 # Suppress only the single warning from urllib3 needed.
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
-import requests
-
 cookies = {
     'allow_ranking': 'Y',
 }
@@ -21,11 +19,10 @@ headers = {
     'accept-language': 'zh-TW,zh;q=0.8',
     'cache-control': 'max-age=0',
     # 'cookie': 'allow_ranking=Y',
-    'if-modified-since': 'Sun, 04 Dec 2022 02:39:04 GMT',
-    'referer': 'https://ranking.nhspc.cc/',
+    # 'if-modified-since': 'Sun, 04 Dec 2022 02:39:04 GMT',
     'sec-fetch-dest': 'document',
     'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'same-origin',
+    'sec-fetch-site': 'none',
     'sec-fetch-user': '?1',
     'sec-gpc': '1',
     'upgrade-insecure-requests': '1',

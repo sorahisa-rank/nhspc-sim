@@ -10,6 +10,6 @@
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2021/ranking/)
 -   2022
     -   [測機](https://sorahisa-rank.github.io/nhspc-sim/2022/practice/)
-    -   正式賽
+    -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2022/ranking/)
     -   社會組
     -   合併版

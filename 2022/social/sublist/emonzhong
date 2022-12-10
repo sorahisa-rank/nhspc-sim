@@ -1,0 +1,48 @@
+[
+    {
+        "user": "emonzhong",
+        "task": "B",
+        "time": 15733,
+        "key": "273",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "emonzhong",
+        "task": "B",
+        "time": 15775,
+        "key": "277",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    },
+    {
+        "user": "emonzhong",
+        "task": "I",
+        "time": 16783,
+        "key": "312",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

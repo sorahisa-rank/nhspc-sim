@@ -1,0 +1,32 @@
+[
+    {
+        "user": "cjoa",
+        "task": "B",
+        "time": 4130,
+        "key": "60",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "cjoa",
+        "task": "B",
+        "time": 5548,
+        "key": "86",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    }
+]

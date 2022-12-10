@@ -1,0 +1,104 @@
+[
+    {
+        "user": "One",
+        "task": "A",
+        "time": 1006,
+        "key": "11",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "One",
+        "task": "A",
+        "time": 1249,
+        "key": "17",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "One",
+        "task": "A",
+        "time": 1354,
+        "key": "19",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "One",
+        "task": "A",
+        "time": 1663,
+        "key": "23",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "One",
+        "task": "A",
+        "time": 2365,
+        "key": "37",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "25",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "user": "One",
+        "task": "I",
+        "time": 5397,
+        "key": "81",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "One",
+        "task": "I",
+        "time": 7022,
+        "key": "117",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "0",
+            "0"
+        ]
+    }
+]

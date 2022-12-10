@@ -1,0 +1,17 @@
+{
+    "name": "\u597d\u591a\u500b\u4e09\u53e3\u7f8a",
+    "short_name": "Escape",
+    "contest": "official",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (7)",
+        "Subtask 3 (10)",
+        "Subtask 4 (14)",
+        "Subtask 5 (31)",
+        "Subtask 6 (38)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 1
+}

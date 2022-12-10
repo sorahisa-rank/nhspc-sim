@@ -1,0 +1,46 @@
+[
+    {
+        "user": "YMSeah",
+        "task": "A",
+        "time": 5541,
+        "key": "85",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "25",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "user": "YMSeah",
+        "task": "B",
+        "time": 7912,
+        "key": "128",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "YMSeah",
+        "task": "B",
+        "time": 8389,
+        "key": "138",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    }
+]

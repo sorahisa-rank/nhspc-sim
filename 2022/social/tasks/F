@@ -1,0 +1,14 @@
+{
+    "name": "LCA \u904a\u6232",
+    "short_name": "LCA",
+    "contest": "official",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (29)",
+        "Subtask 3 (71)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}

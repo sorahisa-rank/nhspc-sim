@@ -1,0 +1,214 @@
+[
+    {
+        "user": "353cerega",
+        "task": "A",
+        "time": 450,
+        "key": "1",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "25",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "B",
+        "time": 1147,
+        "key": "14",
+        "token": false,
+        "score": 8.0,
+        "extra": [
+            "0",
+            "8",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "B",
+        "time": 1209,
+        "key": "15",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "D",
+        "time": 5005,
+        "key": "71",
+        "token": false,
+        "score": 2.5,
+        "extra": [
+            "0",
+            "2.5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "D",
+        "time": 5107,
+        "key": "72",
+        "token": false,
+        "score": 37.0,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "23",
+            "0"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "D",
+        "time": 5256,
+        "key": "77",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "D",
+        "time": 5309,
+        "key": "78",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "23",
+            "63"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "I",
+        "time": 6509,
+        "key": "101",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "35"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "G",
+        "time": 7183,
+        "key": "121",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "9",
+            "29",
+            "24",
+            "38"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "F",
+        "time": 7936,
+        "key": "130",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "29",
+            "71"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "C",
+        "time": 8525,
+        "key": "141",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "C",
+        "time": 8807,
+        "key": "145",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "C",
+        "time": 8924,
+        "key": "146",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "353cerega",
+        "task": "C",
+        "time": 12906,
+        "key": "217",
+        "token": false,
+        "score": 26.0,
+        "extra": [
+            "0",
+            "9",
+            "0",
+            "17",
+            "0",
+            "0"
+        ]
+    }
+]

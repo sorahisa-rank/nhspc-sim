@@ -1,0 +1,327 @@
+[
+    {
+        "user": "dreamoon_love_AA",
+        "task": "A",
+        "time": 315,
+        "key": "0",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "A",
+        "time": 513,
+        "key": "2",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "A",
+        "time": 565,
+        "key": "3",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "A",
+        "time": 959,
+        "key": "8",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "25",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "I",
+        "time": 1725,
+        "key": "24",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "35"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "B",
+        "time": 2660,
+        "key": "41",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "B",
+        "time": 2703,
+        "key": "43",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "D",
+        "time": 5445,
+        "key": "82",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "D",
+        "time": 5530,
+        "key": "84",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "D",
+        "time": 5557,
+        "key": "87",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "D",
+        "time": 5589,
+        "key": "90",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "D",
+        "time": 5964,
+        "key": "95",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "D",
+        "time": 7067,
+        "key": "118",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "D",
+        "time": 7104,
+        "key": "119",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "23",
+            "63"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "F",
+        "time": 8937,
+        "key": "147",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "F",
+        "time": 9065,
+        "key": "149",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "F",
+        "time": 9425,
+        "key": "154",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "29",
+            "71"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "G",
+        "time": 11133,
+        "key": "176",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "9",
+            "29",
+            "24",
+            "38"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "C",
+        "time": 12648,
+        "key": "211",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "C",
+        "time": 13685,
+        "key": "231",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "9",
+            "20",
+            "17",
+            "21",
+            "33"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "E",
+        "time": 15702,
+        "key": "271",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dreamoon_love_AA",
+        "task": "E",
+        "time": 15841,
+        "key": "279",
+        "token": false,
+        "score": 17.0,
+        "extra": [
+            "0",
+            "7",
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

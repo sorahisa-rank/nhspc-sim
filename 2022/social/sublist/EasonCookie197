@@ -1,0 +1,437 @@
+[
+    {
+        "user": "EasonCookie197",
+        "task": "A",
+        "time": 2357,
+        "key": "36",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "A",
+        "time": 2755,
+        "key": "44",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "A",
+        "time": 2776,
+        "key": "45",
+        "token": false,
+        "score": 25.0,
+        "extra": [
+            "0",
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "A",
+        "time": 2800,
+        "key": "47",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "25",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "B",
+        "time": 3783,
+        "key": "55",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "B",
+        "time": 4027,
+        "key": "58",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "B",
+        "time": 4264,
+        "key": "63",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "B",
+        "time": 4362,
+        "key": "65",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "I",
+        "time": 8368,
+        "key": "137",
+        "token": false,
+        "score": 20.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 9448,
+        "key": "155",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "0",
+            "9",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 10741,
+        "key": "169",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 10900,
+        "key": "172",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 10945,
+        "key": "174",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "D",
+        "time": 12155,
+        "key": "199",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "D",
+        "time": 12249,
+        "key": "201",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "D",
+        "time": 12288,
+        "key": "203",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "D",
+        "time": 12340,
+        "key": "206",
+        "token": false,
+        "score": 5.0,
+        "extra": [
+            "0",
+            "5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 15851,
+        "key": "280",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 15951,
+        "key": "285",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 16064,
+        "key": "289",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 16145,
+        "key": "293",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 16170,
+        "key": "294",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 16212,
+        "key": "295",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "G",
+        "time": 16310,
+        "key": "298",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "I",
+        "time": 17780,
+        "key": "325",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "I",
+        "time": 17813,
+        "key": "326",
+        "token": false,
+        "score": 65.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "I",
+        "time": 17917,
+        "key": "327",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "35"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "D",
+        "time": 17964,
+        "key": "328",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "EasonCookie197",
+        "task": "D",
+        "time": 17990,
+        "key": "330",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

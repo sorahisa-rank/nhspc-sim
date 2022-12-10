@@ -1,0 +1,79 @@
+[
+    {
+        "user": "Qing_Yang",
+        "task": "A",
+        "time": 3825,
+        "key": "56",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "25",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "user": "Qing_Yang",
+        "task": "B",
+        "time": 5248,
+        "key": "75",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    },
+    {
+        "user": "Qing_Yang",
+        "task": "I",
+        "time": 5986,
+        "key": "96",
+        "token": false,
+        "score": 65.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "0"
+        ]
+    },
+    {
+        "user": "Qing_Yang",
+        "task": "I",
+        "time": 6816,
+        "key": "111",
+        "token": false,
+        "score": 65.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "0"
+        ]
+    },
+    {
+        "user": "Qing_Yang",
+        "task": "I",
+        "time": 6973,
+        "key": "116",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "35"
+        ]
+    }
+]

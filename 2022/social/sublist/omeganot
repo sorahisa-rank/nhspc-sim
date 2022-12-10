@@ -1,0 +1,587 @@
+[
+    {
+        "user": "omeganot",
+        "task": "B",
+        "time": 1467,
+        "key": "21",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "B",
+        "time": 1763,
+        "key": "25",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "B",
+        "time": 1892,
+        "key": "29",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "B",
+        "time": 2474,
+        "key": "38",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "B",
+        "time": 2651,
+        "key": "40",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "B",
+        "time": 4410,
+        "key": "66",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "8",
+            "14",
+            "22",
+            "56"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "A",
+        "time": 5325,
+        "key": "80",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "25",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "I",
+        "time": 6758,
+        "key": "108",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "0",
+            "5",
+            "15",
+            "30",
+            "15",
+            "35"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 10003,
+        "key": "162",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 10088,
+        "key": "164",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 10411,
+        "key": "167",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 10706,
+        "key": "168",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 10843,
+        "key": "170",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 11189,
+        "key": "178",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 11653,
+        "key": "188",
+        "token": false,
+        "score": 18.5,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "G",
+        "time": 12814,
+        "key": "213",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "0",
+            "9",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "G",
+        "time": 12977,
+        "key": "220",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "G",
+        "time": 13058,
+        "key": "221",
+        "token": false,
+        "score": 9.0,
+        "extra": [
+            "0",
+            "9",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14275,
+        "key": "241",
+        "token": false,
+        "score": 2.5,
+        "extra": [
+            "0",
+            "2.5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14328,
+        "key": "243",
+        "token": false,
+        "score": 2.5,
+        "extra": [
+            "0",
+            "2.5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14372,
+        "key": "244",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14464,
+        "key": "246",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14708,
+        "key": "250",
+        "token": false,
+        "score": 2.5,
+        "extra": [
+            "0",
+            "2.5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14740,
+        "key": "251",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14766,
+        "key": "252",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14798,
+        "key": "253",
+        "token": false,
+        "score": 2.5,
+        "extra": [
+            "0",
+            "2.5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14873,
+        "key": "254",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14885,
+        "key": "255",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14923,
+        "key": "256",
+        "token": false,
+        "score": 2.5,
+        "extra": [
+            "0",
+            "2.5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 14966,
+        "key": "257",
+        "token": false,
+        "score": 2.5,
+        "extra": [
+            "0",
+            "2.5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15089,
+        "key": "259",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15123,
+        "key": "261",
+        "token": false,
+        "score": 50.0,
+        "extra": [
+            "0",
+            "2.5",
+            "4.5",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15204,
+        "key": "264",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15342,
+        "key": "266",
+        "token": false,
+        "score": 5.0,
+        "extra": [
+            "0",
+            "5",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15370,
+        "key": "267",
+        "token": false,
+        "score": 57.0,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "11.5",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15414,
+        "key": "268",
+        "token": false,
+        "score": 14.0,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15674,
+        "key": "270",
+        "token": false,
+        "score": 68.5,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "23",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 15740,
+        "key": "274",
+        "token": false,
+        "score": 68.5,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "23",
+            "31.5"
+        ]
+    },
+    {
+        "user": "omeganot",
+        "task": "D",
+        "time": 16086,
+        "key": "291",
+        "token": false,
+        "score": 68.5,
+        "extra": [
+            "0",
+            "5",
+            "9",
+            "23",
+            "31.5"
+        ]
+    }
+]

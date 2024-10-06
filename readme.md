@@ -3,13 +3,16 @@
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2019/ranking/)
     -   [社會組](https://sorahisa-rank.github.io/nhspc-sim/2019/social/)
     -   [合併版](https://sorahisa-rank.github.io/nhspc-sim/2019/combined/)
--   2020
+-   [2020 社會組 on Codeforces](https://codeforces.com/gym/102891)
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2020/ranking/)
     -   [社會組](https://codeforces.com/gym/102891/standings)
 -   [2021 on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/pre-nhspc-2021)
+    -   [官方](https://nhspc.cc/2021/ranking/Ranking.html)
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2021/ranking/)
--   2022
+-   [2022 on Codeforces](https://codeforces.com/gym/104097)
     -   [測機](https://sorahisa-rank.github.io/nhspc-sim/2022/practice/)
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2022/ranking/)
     -   [社會組](https://sorahisa-rank.github.io/nhspc-sim/2022/social/)
-    -   合併版
+-   [2023 on Codeforces](https://codeforces.com/gym/104830)
+    -   [官方](https://nhspc.cc/2023/ranking/Ranking.html)
+    -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2023/ranking/)

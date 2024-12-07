@@ -16,3 +16,6 @@
 -   [2023 on Codeforces](https://codeforces.com/gym/104830)
     -   [官方](https://nhspc.cc/2023/ranking/Ranking.html)
     -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2023/ranking/)
+-   [2024 on Codeforces](https://codeforces.com/gym/105570)
+    -   [官方](https://nhspc.cc/2024/ranking/Ranking.html)
+    -   [正式賽](https://sorahisa-rank.github.io/nhspc-sim/2024/ranking/)
